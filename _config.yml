@@ -1,8 +1,9 @@
 # Site settings
-title: "Jekyll Boilerplate"
-description: "site description goes here"
+name: "Depart"
+title: "Depart • A departure time calculator"
+description: "Use Depart to help you plan when to leave for your flight, train, meeting, or any other type of appointment."
 
-url: "http://yourdomain.com"
+url: "http://depart.joelglovier.com"
 
 # Build settings
 markdown: kramdown
